@@ -2,4 +2,4 @@
 
 How to run this application :
 
-mvn spring-boot:run -f "./java-ex/spring-boot-sample/pom.xml"
+mvn spring-boot:run -f "./spring-boot-sample/pom.xml"
