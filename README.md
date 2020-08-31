@@ -2,4 +2,6 @@
 
 How to run this application :
 
-mvn spring-boot:run -f "./spring-boot-sample/pom.xml"
+  * git clone https://github.com/atiouajni/spring-boot-sample.git
+
+  * mvn spring-boot:run -f "./spring-boot-sample/pom.xml"
